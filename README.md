@@ -1,7 +1,6 @@
 # 🧠 Titanic Dataset - Exploratory Data Analysis (EDA)
 
 > 📊 Internship Task - Exploratory Data Analysis (EDA)
-> 
 > 👩‍💻 Intern: Kashish Rajkumar Sharma  
 > 🔗 #ProdigyInfoTech | @Prodigy InfoTech
 
@@ -16,6 +15,7 @@ This repository presents a comprehensive **Exploratory Data Analysis (EDA)** on 
 ## 📂 Folder Structure
 
 PRODIGY_DS_02/
+
 ├── data/ # Raw dataset files
 
 ├── notebooks/ # Jupyter Notebook (main analysis)
