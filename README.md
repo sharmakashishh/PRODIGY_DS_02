@@ -1,6 +1,6 @@
 # 🧠 Titanic Dataset - Exploratory Data Analysis (EDA)
 
-> 📊 Internship Task - Prodigy InfoTech  
+> 📊 Internship Task - Exploratory Data Analysis (EDA)
 > 👩‍💻 Intern: Kashish Rajkumar Sharma  
 > 🔗 #ProdigyInfoTech | @Prodigy InfoTech
 
@@ -94,7 +94,6 @@ PRODIGY_DS_02/
 
 ## 📢 LinkedIn Share Tip
 
-You can write this for your LinkedIn post:
 
 > 🚢 Completed Titanic EDA as part of my Data Science Internship at #ProdigyInfoTech.  
 > 📊 Explored relationships between survival and features like gender, age, and class.  
