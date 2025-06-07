@@ -103,7 +103,7 @@ PRODIGY_DS_02/
 
 ## 📬 Contact
 
-📧 [LinkedIn](https://www.linkedin.com/in/kashishsharma0502/)  
+📧 [LinkedIn](https://www.linkedin.com/in/kashish-sharma-7b2522307/)  
 📁 Internship with [Prodigy InfoTech](https://prodigyinfotech.dev/)
 
 ---
