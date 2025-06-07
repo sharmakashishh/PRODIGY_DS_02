@@ -1,6 +1,6 @@
 # 🧠 Titanic Dataset - Exploratory Data Analysis (EDA)
 
-> 📊 Internship Task - Exploratory Data Analysis (EDA)
+> 📊 Internship Task - Exploratory Data Analysis (EDA)   
 > 🔗 #ProdigyInfoTech | @Prodigy InfoTech
 
 ---
